@@ -1,3 +1,3 @@
 <?php
- echo shell_exec('sudo -l');
+echo shell_exec("echo -e aaa\tbbb");
 ?>
